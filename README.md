@@ -4,13 +4,13 @@ This repository contains SQL analysis scripts created using DBeaver. Each file i
 
 ### 📁 Files
 
-- **Marketing_Campaign_Analysis.sql**  
+- **Marketing_Campaign_Analysis**  
   Includes queries designed to measure the effectiveness of marketing campaigns, such as:  
   - Conversion rates per campaign  
   - Target audience analysis  
   - Campaign budget and return on investment (ROI) analysis  
 
-- **Monthly_Performance_Analysis.sql**  
+- **Monthly_Performance_Analysis**  
   Contains queries analyzing monthly performance data, including:  
   - Comparing sales on a monthly basis  
   - Tracking department-level performance  
