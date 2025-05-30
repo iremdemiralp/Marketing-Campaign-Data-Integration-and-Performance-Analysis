@@ -3,7 +3,7 @@
 This repository contains SQL analysis scripts created using DBeaver. Each file includes queries tailored to specific business needs or data analysis scenarios.
 
 ### Project Overview
-This project focuses on integrating and analyzing advertising performance data from Facebook Ads and Google Ads. The main goal is to track and compare cross-platform marketing metrics to support ROI-driven campaign decisions.
+This project focuses on integrating and analyzing advertising performance data from Facebook Ads and Google Ads. The main goal is to track and compare cross-platform marketing metrics to support ROI-driven campaign decisions. Additionally, the analysis aims to uncover year-over-year changes, trends, and evaluate the efficiency of budget and conversion performance across platforms.
 
 ### Key Objectives
 Data Integration: Merged and standardized data from both platforms using SQL and Common Table Expressions (CTEs).
