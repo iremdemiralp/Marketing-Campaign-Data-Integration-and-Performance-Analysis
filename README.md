@@ -22,7 +22,8 @@ The aim of this project is to demonstrate my proficiency in SQL and data analysi
 ###  Tools Used
 - DBeaver CE  
 - PostgreSQL (or your database of choice)  
-- SQL (Structured Query Language)  
+- SQL (Structured Query Language)
+- Microsoft Power BI
 
 > I welcome any feedback. Feel free to reach out if you want to discuss the project or explore collaboration opportunities. 🌱  
 
