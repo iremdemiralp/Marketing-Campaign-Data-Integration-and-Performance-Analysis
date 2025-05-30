@@ -14,7 +14,7 @@ Data Cleaning: Applied transformation rules and handled nulls and anomalies usin
 
 Cross-Platform Analysis: Enabled direct performance comparisons across ad platforms.
 
-Reporting: Prepared the dataset for visualization in Tableau for stakeholder reporting and decision-making.
+Reporting: Prepared the dataset for visualization in Microsoft Power BI for stakeholder reporting and decision-making.
 
 ###  Objective
 The aim of this project is to demonstrate my proficiency in SQL and data analysis, showcasing how I handle real-world data scenarios.
